@@ -1,0 +1,12 @@
+[submodule "v31allC"]
+	path = v31allC
+	url = https://github.com/mlopeznxtaura/v31allC.git
+[submodule "v31allc2noC"]
+	path = v31allc2noC
+	url = https://github.com/mlopeznxtaura/v31allc2noC.git
+[submodule "v31allM"]
+	path = v31allM
+	url = https://github.com/mlopeznxtaura/v31allM.git
+[submodule "Pt's"]
+	path = Pt's
+	url = https://github.com/mlopeznxtaura/pt-s.git
